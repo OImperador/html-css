@@ -12,6 +12,7 @@
 * {
    margin: 0px;
    padding: 0px;
+   font-size: 1em;
 }
 
 html, body {
@@ -30,6 +31,7 @@ header > h1 {
    padding-top: 50px;
    font-variant: small-caps;
    font-family: var(--fonteespecial1);
+   font-size: 4em;
 }
 
 header > p {
